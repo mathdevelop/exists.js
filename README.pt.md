@@ -1,6 +1,6 @@
 # exists.js
 
-Dificuldade para executar uma ação somente após algum elemento específico ser inserido no DOM ? exists.js resolve esse problema para você se preocupar apenas com sua solução. *[Read in English](README.md)
+Dificuldade para executar uma ação somente após algum elemento específico ser inserido no DOM? exists.js resolve esse problema para você se preocupar apenas com sua solução. *[Read in English](README.md)
 
 ## Uso
 
